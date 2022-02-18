@@ -47,20 +47,26 @@ h2{
     border-radius: 20px;
     padding: 5%; 
    background-color: antiquewhite;
-    margin-bottom: 40%;
+    margin-bottom: 20%;
     margin-right: 5%;
 }
 .vission-commit{
     background-color: aliceblue;
     padding: 5%;
     border-radius: 20px;
-    margin-bottom: 40%;
+    margin-bottom: 20%;
     margin-right: 5%;
 }
 .goals-commit{
     background-color: bisque;
     padding: 5%;
-    margin-bottom: 40%;
+    margin-bottom: 20%;
     margin-right: 5%;
     border-radius: 20px;
+}
+.develop-with-limits{
+    display: flex;
+}
+.develop-with-limits img{
+    width: 80%;
 }
